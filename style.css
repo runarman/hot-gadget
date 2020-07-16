@@ -27,21 +27,29 @@
 }
 .categories{
     text-align: center;
-    text-decoration: 5px orange underline;
     margin-top: 100px;
-}
+    }
 .bag{
-   padding: 40px 5px;
-   border-radius: 0px 10px 0px 10px;
-   box-shadow: 1px 1px 5px lightgray;
-   text-align: center;
-}
-.pands{
    padding: 30px;
    border-radius: 10px 0px 10px 0px;
    box-shadow: 1px 1px 5px lightgray;
    text-align: center;
+   margin:  20px 0 20px 20px;
 }
+.beauty{
+   padding: 30px;
+   border-radius: 10px 0px 10px 0px;
+   box-shadow: 1px 1px 5px lightgray;
+   text-align: center;
+   margin: 20px 0 20px 20px;
+}
+.shoe{
+    padding: 30px;
+    border-radius: 10px 0px 10px 0px;
+    box-shadow: 1px 1px 5px lightgray;
+    text-align: center;
+    margin: 20px 0 20px 20px;
+ } 
 .items img{
     width: 40%;
 }
